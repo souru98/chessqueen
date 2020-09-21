@@ -1,6 +1,6 @@
 // Checkpoint 1 | Creating the queen object
 let queen = {
-        //Create properties. That is the co-ordiates here
+        //Create properties. That is the co-ordinates here
         x: 4,
         y: 0
     }
